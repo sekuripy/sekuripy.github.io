@@ -1,1 +1,0 @@
-# sekuripy.github.io
